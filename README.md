@@ -10,4 +10,4 @@ A simple TamperMonkey script restoring the "Search by Advisor" functionality in 
 
 ## Italian version
 
-Per la versione italiana della guida, [clicca qui]()
+Per la versione italiana della guida, [clicca qui](https://github.com/lorenzoceccanti/etd-byAdvisorName/blob/main/italian_readme.pdf)
